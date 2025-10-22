@@ -254,7 +254,3 @@ python certificate_checker.py --check --max-workers 5
 * Enhanced reporting and visualization
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See LICENSE file for details.
