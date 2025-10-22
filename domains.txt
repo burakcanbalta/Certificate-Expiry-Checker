@@ -1,0 +1,8 @@
+# Add domains to monitor (one per line)
+google.com
+github.com
+microsoft.com
+apple.com
+# Add your domains below
+yourdomain.com
+api.yourservice.com
