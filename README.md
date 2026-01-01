@@ -26,7 +26,7 @@ pip install aiohttp python-dateutil
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/CertificateExpiryChecker.git
+git clone https://github.com/burakcanbalta/CertificateExpiryChecker.git
 cd CertificateExpiryChecker
 
 # 2. Install dependencies
